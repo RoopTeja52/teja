@@ -1,0 +1,17 @@
+.my {
+     
+     
+     text-align: center;
+     border-color: chocolate;
+     border-width: 50px;
+     border-style: double;
+     height: 100px;
+     width: 200px;
+     padding: 10px;
+     
+
+}
+.heading{
+    display: block;
+    visibility:initial;
+}

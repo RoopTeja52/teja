@@ -1,0 +1,9 @@
+body{
+    background-image: url('https://res.cloudinary.com/dqljhvaje/image/upload/v1699440137/a4qczusvuugc1nh3rj6c.jpg');
+}
+.item-nav{
+    color: white;
+}
+.item-nav:hover{
+    color: green;
+}

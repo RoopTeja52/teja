@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(42, 98, 87);
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+    background-color: rgb(51, 57, 82);
+    border: blueviolet 5px solid;
+    word-spacing :20px ;
+    height: 150px;
+
+
+}
+.a-element{
+    text-align-last: center;
+}
+.sub-main{
+    text-align: center;
+    bottom: 10px;
+}
+

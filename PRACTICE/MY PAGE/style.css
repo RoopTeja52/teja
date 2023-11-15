@@ -1,0 +1,32 @@
+.my-bar{
+    text-align: center;
+    display: flex;
+    padding: 50px;
+    color: navy;
+    border-color: aquamarine;
+    border-style:solid;
+    height: 10px;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: bisque;
+}
+
+.a-element{
+    padding: 5px;
+    border: 5px;
+    height: 15px;
+    border-style: groove;
+    border: solid blueviolet;
+    position: sticky;
+}
+.my-bar-right{
+    text-align: right;
+    position:sticky;
+    
+}
+body{
+    background-color: cornsilk;
+}
+.details{
+    text-align: center;
+}

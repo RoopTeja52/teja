@@ -1,0 +1,23 @@
+.my_class{
+    text-align: center;
+}
+
+
+
+
+h1{
+    color: red;
+    text-align: center;
+    font-style: oblique;
+}
+p{
+    color: chartreuse;
+    font-variant: inherit;
+}
+.hello{
+    color: blue;
+}
+
+body{
+    background-color: black;
+}

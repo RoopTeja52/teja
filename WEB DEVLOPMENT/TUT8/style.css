@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(137, 250, 100);
+}
+.mainbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 10px;
+    background-color: black;   
+}
+.logo-image{
+    height: 100px;
+    padding-left: 30px;
+}
+.main-barleft{
+    color: white;
+    padding-left: 30px;
+  
+}
+.main-barright{
+    display: flex;
+    flex-direction: row;
+    align-items: center;  
+    color: white;
+    padding-right: 15px;
+}
+.a-element{
+    padding:10px;
+}
+.main-body{
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+  
+   height: 100vh;
+  
+}
+.logo-image1{
+    height: 300px;
+    padding-left: 1000px;
+    padding-bottom: 5000px;
+}
+.main-bodyright{
+    width: 50vw;
+    padding-left: 100px;
+    text-align: right;
+}
+.services{
+    padding: 50px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+}
+.services-sub{
+    display: flex;
+    flex-direction: row;
+
+}

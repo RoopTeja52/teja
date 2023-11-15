@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Encode+Sans+Semi+Condensed:wght@500&display=swap');
+body{
+    background-color: burlywood;
+}
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 10px ;
+    background-color: black;
+}
+.logo-image{
+    height: 100px;
+}
+.nav-bar-right{
+  padding: 50px;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+   
+}
+.nav-bar-left{
+    color: white;
+    padding:20px;
+}
+.a-element{
+    padding: 30px;
+}
+.main-body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height:75vh;
+}
+.mainbar-right{
+    width: 50vw;
+    padding-left:150px;
+}
+.mainbar-left{
+    width: 50vw;
+    text-align: right;
+    padding-left: 50px;
+}
+.h1{
+    font-family: 'Encode Sans Semi Condensed', sans-serif;
+    font-size: 40px;
+}
+.p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+.services {
+    padding: 50px;
+    text-align: center;
+ 
+}
+.services-sub-cont {
+    display: flex;
+    flex-direction: row;
+ 
+}
+.services-card{
+    border: 2px rgba(23, 6, 208, 0.637) solid;
+    margin: 20px;
+    font-family: 'Work Sans', sans-serif;
+    width: 70vw;
+    
+}
+.contact-section{
+    text-align: center;
+    height:20px;
+   
+}
+.contact-info{
+    font-family: 'Work Sans', sans-serif;
+}
+.social-image{
+    height: 50px;
+    padding: 10px;
+}
